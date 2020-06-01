@@ -1,0 +1,11 @@
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\obj\Debug\netcoreapp2.2\FundamentalsOne.csprojAssemblyReference.cache
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\obj\Debug\netcoreapp2.2\FundamentalsOne.csproj.CoreCompileInputs.cache
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\obj\Debug\netcoreapp2.2\FundamentalsOne.AssemblyInfoInputs.cache
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\obj\Debug\netcoreapp2.2\FundamentalsOne.AssemblyInfo.cs
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\bin\Debug\netcoreapp2.2\FundamentalsOne.deps.json
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\bin\Debug\netcoreapp2.2\FundamentalsOne.runtimeconfig.json
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\bin\Debug\netcoreapp2.2\FundamentalsOne.runtimeconfig.dev.json
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\bin\Debug\netcoreapp2.2\FundamentalsOne.dll
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\bin\Debug\netcoreapp2.2\FundamentalsOne.pdb
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\obj\Debug\netcoreapp2.2\FundamentalsOne.dll
+C:\Users\Levi\documents\dojo\csharp_stack\fundamentalsone\obj\Debug\netcoreapp2.2\FundamentalsOne.pdb
